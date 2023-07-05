@@ -1,0 +1,187 @@
+.an1{
+    text-align: center;
+    border: solid bisque;
+    /* color: bisque; */
+    text-decoration: black;
+}
+.ann3  ul li{
+    display: flex;
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 20px;
+    
+}
+.ann4 ul li{
+    font-weight: 40px;
+}
+.ann2{
+    display: flex;
+}
+.bevy1{
+    display: flex;
+
+}
+.bevy3{
+    margin-left: 40px;
+     margin-top:50px ;
+}
+.bevy4{
+    font-size: 50px;
+}
+.bevy5{
+    font-size: 20px;
+    text-align: center;
+}
+.bevy6{
+    font-size: 50px;
+}
+.bevy7{
+    margin-left: 40px;
+}
+.gal{
+    text-decoration: white;
+    color: black;
+    text-align: center;
+    margin: 40px 10px 30px;
+}
+.beth1{
+    text-align: center;
+}
+.zeb1{
+    display: flex;
+}
+.goods{
+    display: flex;
+}
+.suu1{
+    text-align: center;
+    margin-right: 40%;
+}
+.bena{
+    padding-top: 10%;
+}
+.angie{
+    text-align: center;
+    margin-right: 15%;
+     
+}
+.chal1{
+    border: 20%;
+
+}
+.chap2{
+    text-align: center;
+}
+.chap3{
+    text-align: center;
+}
+.expla1{
+    text-align: center;
+    
+    
+}
+.e2{
+    margin-right: 5%;
+}
+.e3{
+    margin-right: 10%;
+}
+.e5{
+    margin-left: 15%;
+    
+}
+.e4{
+    margin-right: %;
+}
+.e5{
+    margin-right: 5%;
+}
+.chap1{
+    border: solid black;
+    text-decoration: black;
+    background-color:#ffd8a8;
+    border-radius: 4%;
+}
+.SHEE{
+    display: flex;
+}
+.tree{
+    border: solid black;
+    border-radius: 2%;
+
+}
+.rex{
+    text-align: center;
+    border: solid black;
+    border-radius: 2%;
+
+}
+.barb{
+    margin-left: 10%;
+    border: solid black;
+    border-radius: 2%;
+
+}
+.rex{
+    margin-left: 15%;
+}
+.tree2{
+    margin-left: 7%;
+    margin-top: 2.5%;
+    border: solid black;
+    border-radius: 2%;
+
+}
+.fi{
+    text-align: center;
+}
+.chaa{
+    display: flex;
+}
+.chaa2{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.chaa{
+    border: solid black;
+    border-radius: 2%;
+    background-color: whitesmoke;
+
+}
+.chaa3{
+    font-weight: 60%;
+}
+.chaa5{
+    color: white;
+    background-color: black;
+    padding: 15px 10px 15px;
+    border-radius: 5%;
+    text-align: center;
+}
+.fab{
+    display: flex;
+    border: solid black;
+    border-radius: 5%;
+}
+.fib{
+    display: flex;
+    
+}
+.sum{
+    margin-left: 40%;
+    margin-top: 2%;
+    
+}
+.complete{
+    /* text-align: center; */
+}
+.footer{
+    display: flex;
+}
+.pretty1{
+    list-style: none;
+
+}
+.harwork{
+    display: flex;
+}
